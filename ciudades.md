@@ -5,4 +5,4 @@
 3. Pueblo Paleta
 4. Star City
 5. Olimpo
-
+6. CDMX
