@@ -4,3 +4,5 @@
 2. Metrópolis
 3. Pueblo Paleta
 4. Star City
+5. Olimpo
+
