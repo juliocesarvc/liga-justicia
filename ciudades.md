@@ -7,3 +7,4 @@
 5. Olimpo
 6. CDMX
 7. Atlantis
+8. Wakanda
