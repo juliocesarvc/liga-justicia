@@ -8,3 +8,4 @@
 6. CDMX
 7. Atlantis
 8. Wakanda
+9. New York
